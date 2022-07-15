@@ -1,0 +1,13 @@
+School Project                -> https://a360.co/3IOVfnZ
+EC transmitter                -> https://a360.co/3PzWObM
+LoRa breakout                 -> https://a360.co/3siZb8B
+PH Chip Test                  -> https://a360.co/3o5r6XV
+Relay Module with two mcu     -> https://a360.co/3rz9MvF
+SHT3x breakout module         -> https://a360.co/3C3sfWh
+LoRa <-> CAN Converter        -> https://a360.co/3PvbFEd
+IOT Comm. Board               -> https://a360.co/3IPaPjC
+IOT sensor Input/Output Board -> https://a360.co/3Kf9rXd
+Relay Board with MOSFET       -> https://a360.co/3o7HGX7
+Relay Board with TRIAC        -> https://a360.co/3aCCK9P
+Rain Sensor                   -> https://a360.co/3jovT4s
+
